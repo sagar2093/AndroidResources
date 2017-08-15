@@ -8,11 +8,11 @@
 
 ## Some Useful Libraries
 
-   [AppIntro](https://github.com/GeorgeArgyrakis/FloatingKeyboard)  
+   [AppIntro](https://github.com/GeorgeArgyrakis/FloatingKeyboard)
    [ExcelPanel](https://github.com/zhouchaoyuan/excelPanel)  
    An Android's two-dimensional RecyclerView. Not only can load historical data, but also can load future data.  
 
-   [AwesomeBar](https://github.com/florent37/AwesomeBar)  
-   [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)  
+   [AwesomeBar](https://github.com/florent37/AwesomeBar)
+   [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)
 
 
