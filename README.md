@@ -10,3 +10,4 @@ Contains some web resources for android app development
 6. https://news.realm.io/news/ 
 7. https://academy.realm.io/tags/android
 8. https://infinum.co/the-capsized-eight/tags/android-development
+9. https://fernandocejas.com/
