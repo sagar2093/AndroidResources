@@ -1,5 +1,7 @@
-# AndroidResources
+# Android Resources
 Contains some web resources for android app development
+
+>Help for markdown will be appreciated :)
 
 # Android Blogs
 1. http://gunhansancar.com/category/android/
