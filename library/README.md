@@ -1,4 +1,4 @@
-# Resources for creating library
+# Resources about library
 
 >Help for markdown will be appreciated. :)
 
@@ -17,3 +17,8 @@
    
    [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)
    
+## Creating android library
+   https://code.tutsplus.com/tutorials/creating-and-publishing-an-android-library--cms-24582
+   https://medium.com/@zurche/create-and-distribute-your-own-android-library-after-reading-this-post-c3187a2a0691
+   https://developer.android.com/studio/projects/android-library.html
+   http://www.vogella.com/tutorials/AndroidLibraryProjects/article.html
