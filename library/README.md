@@ -16,8 +16,11 @@
    [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)
    
 ## Creating android library
-   https://ptyagicodecamp.github.io/how-did-i-publish-android-library-to-jcenter-from-android-studio.html
+   Follow this link
    https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en
+   
+   Other links for only refrences
+   https://ptyagicodecamp.github.io/how-did-i-publish-android-library-to-jcenter-from-android-studio.html
    https://medium.com/@zurche/create-and-distribute-your-own-android-library-after-reading-this-post-c3187a2a0691
    https://code.tutsplus.com/tutorials/creating-and-publishing-an-android-library--cms-24582
    https://developer.android.com/studio/projects/android-library.html
