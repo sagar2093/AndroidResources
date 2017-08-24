@@ -11,3 +11,6 @@ https://github.com/avast/android-butterknife-zelezny
 
 5. https://medium.com/@vatsalbajpai/top-10-most-useful-plugins-for-android-studio-23051200e2b3
 
+##Using git in android studio
+   https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9
+
