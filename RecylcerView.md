@@ -1,7 +1,7 @@
 
-#RecyclerView
+# RecyclerView
 
-##Some Useful Links
+## Some Useful Links
 * https://infinum.co/the-capsized-eight/one-recyclerview-to-rule-them-all
 * https://news.realm.io/news/360andev-yigit-boyar-pro-recyclerview-android-ui-java/
 * http://valokafor.com/remember-drag-and-drop-position-with-recyclerview/
@@ -13,7 +13,7 @@
 * https://github.com/willblaschko/header-footer-recycler-view
 * https://github.com/thorbenprimke/realm-recyclerview
 
-##Libraries
+## Libraries
 * https://github.com/gurleensethi/LiteUtilities
 * https://github.com/MEiDIK/SlimAdapter
 * https://github.com/MarkoMilos/Paginate
