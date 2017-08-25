@@ -13,3 +13,4 @@ Contains some web resources for android app development
 7. https://academy.realm.io/tags/android
 8. https://infinum.co/the-capsized-eight/tags/android-development
 9. https://fernandocejas.com/
+10. http://www.hidroh.com/
