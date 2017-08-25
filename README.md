@@ -14,3 +14,11 @@ Contains some web resources for android app development
 8. https://infinum.co/the-capsized-eight/tags/android-development
 9. https://fernandocejas.com/
 10. http://www.hidroh.com/
+11. http://www.truiton.com/category/android/
+12. https://www.androidhive.info/
+
+## Blog for beginners
+
+## Blog for intermediate
+
+## Blog for advanced
