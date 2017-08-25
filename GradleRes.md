@@ -1,6 +1,6 @@
 ## Resources about gradle building
 
-[Dependencies.gradle](https://github.com/sagar2093/MyAndroidProject/blob/master/dependencies.gradle)
+My [dependencies.gradle](https://github.com/sagar2093/MyAndroidProject/blob/master/dependencies.gradle)
 
 ## Web Links
 
