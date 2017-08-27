@@ -19,7 +19,11 @@ git check-ref-format
 ```
 
 //push every local tag to remote
+```git
 git push origin --tags
+```
 
 //push a specific local tag to remote
+```git
 git push origin : tagName
+```
