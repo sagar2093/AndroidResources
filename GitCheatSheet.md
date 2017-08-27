@@ -17,3 +17,9 @@ git remote get-url origin
 ```git
 git check-ref-format
 ```
+
+//push every local tag to remote
+git push origin --tags
+
+//push a specific local tag to remote
+git push origin : tagName
