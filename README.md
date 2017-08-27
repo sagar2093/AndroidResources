@@ -17,6 +17,7 @@ Contains some web resources for android app development
 * http://www.truiton.com/category/android/
 * https://www.androidhive.info/
 * https://www.bignerdranch.com/blog/categories/android/
+* https://androidessence.com
 
 ## Blog for beginners
 
