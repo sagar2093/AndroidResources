@@ -13,9 +13,22 @@ https://drive.google.com/file/d/0BxQ69lTsNUqgeERJZ2RwTEtheVE/view?usp=sharing
 git remote get-url origin
 ```
 
-* reference
+#### TAGS
+
+* create tag
 ```git
-git check-ref-format
+git tag <tag name>
+```
+
+* list all tags
+```git
+
+git tag
+//or
+
+git show-ref --tags
+//e7e66977c1f34be5627a268adb4b9b3d59700e40 refs/tags/osgeolive-6.5
+//8f27e65bddd7d4b8515ce620fb485fdd78fcdf89 refs/tags/v8.0
 ```
 
 //push every local tag to remote
