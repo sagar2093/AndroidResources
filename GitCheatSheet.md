@@ -6,12 +6,14 @@ https://drive.google.com/file/d/0BxQ69lTsNUqgeERJZ2RwTEtheVE/view?usp=sharing
 
 [Detailed Reference](https://git-scm.com/docs)
 
+## Short Codes
+
 * Remote origin location
 ```git
 git remote get-url origin
 ```
 
-* valid tag name
+* reference
 ```git
 git check-ref-format
 ```
