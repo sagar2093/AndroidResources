@@ -15,6 +15,7 @@ https://gist.github.com/gabrielemariotti/ad6672902464ee2392d0
 
 ### Room Persistence Library
 https://www.captechconsulting.com/blogs/android-architecture-components-room-persistence-library
+https://medium.com/google-developers/7-steps-to-room-27a5fe5f99b2
 https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9
 https://medium.com/@magdamiu/android-room-persistence-library-97ad0d25668e
 
