@@ -15,7 +15,7 @@ git remote get-url origin
 
 ### PUSH
 
-* create tag
+* force push
 ```git
 git push -f <remote> <branch>
 //git push -f origin master
