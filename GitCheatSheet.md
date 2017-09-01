@@ -13,6 +13,14 @@ https://drive.google.com/file/d/0BxQ69lTsNUqgeERJZ2RwTEtheVE/view?usp=sharing
 git remote get-url origin
 ```
 
+### PUSH
+
+* create tag
+```git
+git push -f <remote> <branch>
+//git push -f origin master
+```
+
 ### TAGS
 
 * create tag
