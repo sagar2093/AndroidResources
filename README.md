@@ -18,6 +18,7 @@ Contains some web resources for android app development
 * https://www.androidhive.info/
 * https://www.bignerdranch.com/blog/categories/android/
 * https://androidessence.com
+* https://clevertap.com/blog/tag/android/
 
 ## Blog for beginners
 
