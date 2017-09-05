@@ -7,6 +7,8 @@ This contains list of links. Choose wisely.
    http://www.gadgetsaint.com/android/circular-images-glide-library-android/  
    https://infinum.co/the-capsized-eight/magic-constants-in-android-development  
    https://gist.github.com/gabrielemariotti/ad6672902464ee2392d0  
+   
+   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)
 
 
 ## Simple Android Topics
