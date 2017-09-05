@@ -13,6 +13,10 @@
 * https://github.com/willblaschko/header-footer-recycler-view
 * https://github.com/thorbenprimke/realm-recyclerview
 
+## Additional Properties
+* https://www.bignerdranch.com/blog/a-view-divided-adding-dividers-to-your-recyclerview-with-itemdecoration/
+* https://stackoverflow.com/questions/31242812/how-can-a-divider-line-be-added-in-an-android-recyclerview
+
 ## Libraries
 * https://github.com/gurleensethi/LiteUtilities
 * https://github.com/MEiDIK/SlimAdapter
