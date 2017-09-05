@@ -4,7 +4,7 @@
 1. https://medium.freecodecamp.com/30-new-android-libraries-released-in-the-spring-of-2017-which-deserve-your-attention-faea359a1915
 2. https://medium.cobeisfresh.com/top-5-android-libraries-may-2017-3988610b3ce6
 
-## Smarll Libraries/Codes
+## Small Libraries/Codes
 These Libraries are small in sizes. Eithe using gradle dependency will be easier to use OR Copying related code base file based on usage/modifications required.
 
 [android-utils by sagar2093](https://github.com/sagar2093/android-utils)
@@ -22,6 +22,8 @@ Features (LocaleHelper,MultipartUtiltity,Util,ViewPagerAdapter,WidgetUtil)
 
 [android-recipes](https://github.com/ptyagicodecamp/android-recipes)
 Features (AudioRuntimePermissions,CopyGalleryPic,FileProviede,Flavors,LauncherScreen,NavDrawerDynamicMenu)
+
+https://github.com/sparrow007/CircularProgressbar
 
 ## Some Useful Libraries
 
