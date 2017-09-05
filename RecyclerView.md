@@ -14,8 +14,8 @@
 * https://github.com/thorbenprimke/realm-recyclerview
 
 ## Additional Properties
-* https://www.bignerdranch.com/blog/a-view-divided-adding-dividers-to-your-recyclerview-with-itemdecoration/
-* https://stackoverflow.com/questions/31242812/how-can-a-divider-line-be-added-in-an-android-recyclerview
+* Item Divider https://www.bignerdranch.com/blog/a-view-divided-adding-dividers-to-your-recyclerview-with-itemdecoration/
+* Item Divider https://stackoverflow.com/questions/31242812/how-can-a-divider-line-be-added-in-an-android-recyclerview
 
 ## Libraries
 * https://github.com/gurleensethi/LiteUtilities
