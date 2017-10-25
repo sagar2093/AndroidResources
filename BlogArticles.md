@@ -8,12 +8,15 @@ This contains list of links. Choose wisely.
    https://infinum.co/the-capsized-eight/magic-constants-in-android-development  
    https://gist.github.com/gabrielemariotti/ad6672902464ee2392d0  
    
-   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)
-
-
+  
 ## Simple Android Topics
 
+   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)
+   [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)
+
 ### Room Persistence Library
+   https://medium.com/@chrisbanes/room-time-2b4cf9672b98
+   https://android.jlelse.eu/exploring-room-architecture-component-6db807094241
    https://www.captechconsulting.com/blogs/android-architecture-components-room-persistence-library  
    https://medium.com/google-developers/7-steps-to-room-27a5fe5f99b2  
    https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9  
