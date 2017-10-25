@@ -11,7 +11,7 @@ This contains list of links. Choose wisely.
   
 ## Simple Android Topics
 
-   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/) 
+   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)  
    [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)
 
 ### Room Persistence Library
@@ -25,9 +25,9 @@ This contains list of links. Choose wisely.
 ### Browser (In app)
 https://developer.chrome.com/multidevice/android/customtabs 
 https://segunfamisa.com/posts/chrome-custom-tabs 
-https://guides.codepath.com/android/Chrome-Custom-Tabs 
-https://labs.ribot.co.uk/exploring-chrome-customs-tabs-on-android-ef427effe2f4?gi=dd71edcfac88 
-http://www.androidhive.info/2016/12/android-working-with-webview-building-a-simple-in-app-browser/ 
+https://guides.codepath.com/android/Chrome-Custom-Tabs  
+https://labs.ribot.co.uk/exploring-chrome-customs-tabs-on-android-ef427effe2f4?gi=dd71edcfac88  
+http://www.androidhive.info/2016/12/android-working-with-webview-building-a-simple-in-app-browser/  
 
 
 ### Push Notification
