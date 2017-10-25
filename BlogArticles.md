@@ -11,33 +11,34 @@ This contains list of links. Choose wisely.
   
 ## Simple Android Topics
 
-   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)
+   [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/) 
    [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)
 
 ### Room Persistence Library
-   https://medium.com/@chrisbanes/room-time-2b4cf9672b98
-   https://android.jlelse.eu/exploring-room-architecture-component-6db807094241
+   https://medium.com/@chrisbanes/room-time-2b4cf9672b98 
+   https://android.jlelse.eu/exploring-room-architecture-component-6db807094241 
    https://www.captechconsulting.com/blogs/android-architecture-components-room-persistence-library  
    https://medium.com/google-developers/7-steps-to-room-27a5fe5f99b2  
    https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9  
    https://medium.com/@magdamiu/android-room-persistence-library-97ad0d25668e  
 
 ### Browser (In app)
-https://developer.chrome.com/multidevice/android/customtabs
-https://segunfamisa.com/posts/chrome-custom-tabs
-https://guides.codepath.com/android/Chrome-Custom-Tabs https://labs.ribot.co.uk/exploring-chrome-customs-tabs-on-android-ef427effe2f4?gi=dd71edcfac88
+https://developer.chrome.com/multidevice/android/customtabs 
+https://segunfamisa.com/posts/chrome-custom-tabs 
+https://guides.codepath.com/android/Chrome-Custom-Tabs 
+https://labs.ribot.co.uk/exploring-chrome-customs-tabs-on-android-ef427effe2f4?gi=dd71edcfac88 
 http://www.androidhive.info/2016/12/android-working-with-webview-building-a-simple-in-app-browser/ 
 
 
 ### Push Notification
-https://gist.github.com/MohammadaliMirhamed/7384b741a5c979eb13633dc6ea1269ce
-https://firebase.google.com/docs/analytics/debugview
-https://firebase.google.com/docs/cloud-messaging/http-server-ref
-https://github.com/firebase/quickstart-android
-https://applikeysolutions.com/blog/how-to-send-a-push-notification-to-android-using-firebase
-https://www.codementor.io/flame3/send-push-notifications-to-android-with-firebase-du10860kb
-https://www.simplifiedcoding.net/firebase-cloud-messaging-android/
-https://inducesmile.com/android/android-firebase-cloud-messaging-push-notification-with-server-admin-in-php-and-mysql-database/
+https://gist.github.com/MohammadaliMirhamed/7384b741a5c979eb13633dc6ea1269ce 
+https://firebase.google.com/docs/analytics/debugview 
+https://firebase.google.com/docs/cloud-messaging/http-server-ref 
+https://github.com/firebase/quickstart-android 
+https://applikeysolutions.com/blog/how-to-send-a-push-notification-to-android-using-firebase 
+https://www.codementor.io/flame3/send-push-notifications-to-android-with-firebase-du10860kb 
+https://www.simplifiedcoding.net/firebase-cloud-messaging-android/ 
+https://inducesmile.com/android/android-firebase-cloud-messaging-push-notification-with-server-admin-in-php-and-mysql-database/ 
 https://shareurcodes.com/blog/send%20push%20notification%20to%20users%20using%20firebase%20messaging%20service%20in%20php
 
 
