@@ -12,7 +12,8 @@ This contains list of links. Choose wisely.
 ## Simple Android Topics
 
    [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)  
-   [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)
+   [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)  
+   [ANDROID: Browsing Realm Database On Windows](https://android.jlelse.eu/android-browsing-realm-database-on-windows-3d2b4fc3de92)  
 
 ### Room Persistence Library
    https://medium.com/@chrisbanes/room-time-2b4cf9672b98  
