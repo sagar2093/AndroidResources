@@ -4,6 +4,7 @@ Contains some web resources for android app development
 >Help for markdown will be appreciated :)
 
 # Android Blogs
+* https://blog.mindorks.com/tagged/kotlin
 * https://mindorks.com/blogs
 * https://segunfamisa.com/tags/
 * https://rongi.github.io/kotlin-blog/ 
