@@ -10,6 +10,8 @@ This contains list of links. Choose wisely.
    
   
 ## Simple Android Topics
+   [Android — Adding badge or count to the navigation drawer](https://android.jlelse.eu/android-adding-badge-or-count-to-the-navigation-drawer-84c93af1f4d9)
+   [https://medium.com/@harivigneshjayapalan/learning-to-implement-your-first-android-ui-library-part-1-be7a31e5ccc3](https://medium.com/@harivigneshjayapalan/learning-to-implement-your-first-android-ui-library-part-1-be7a31e5ccc3)
    [Custom Views and ViewGroups (Part 1)](https://caster.io/episodes/custom-views-and-viewgroups-part-1/)   
    [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)  
    [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)  
