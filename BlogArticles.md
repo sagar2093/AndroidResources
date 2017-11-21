@@ -102,6 +102,7 @@ http://valokafor.com/android-drawing-app-tutorial-part-1/
 
 
 ### Download Manager
+https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640   
 https://www.101apps.co.za/index.php/articles/using-the-downloadmanager-to-manage-your-downloads.html
 https://www.codeproject.com/Articles/1112730/Android-Download-Manager-Tutorial-How-to-Download
 http://blog.vogella.com/2011/06/14/android-downloadmanager-example/
