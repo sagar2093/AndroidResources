@@ -18,6 +18,7 @@
 * Item Divider https://stackoverflow.com/questions/31242812/how-can-a-divider-line-be-added-in-an-android-recyclerview
 
 ## Libraries
+* https://github.com/vicpinm/UltimateRecyclerView
 * https://github.com/gurleensethi/LiteUtilities
 * https://github.com/MEiDIK/SlimAdapter
 * https://github.com/MarkoMilos/Paginate
