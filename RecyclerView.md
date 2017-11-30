@@ -1,6 +1,12 @@
 
 # RecyclerView
 
+## Libraries
+* https://github.com/vicpinm/UltimateRecyclerView
+* https://github.com/gurleensethi/LiteUtilities
+* https://github.com/MEiDIK/SlimAdapter
+* https://github.com/MarkoMilos/Paginate   
+
 ## Some Useful Links
 * https://infinum.co/the-capsized-eight/one-recyclerview-to-rule-them-all
 * https://news.realm.io/news/360andev-yigit-boyar-pro-recyclerview-android-ui-java/
@@ -17,8 +23,3 @@
 * Item Divider https://www.bignerdranch.com/blog/a-view-divided-adding-dividers-to-your-recyclerview-with-itemdecoration/
 * Item Divider https://stackoverflow.com/questions/31242812/how-can-a-divider-line-be-added-in-an-android-recyclerview
 
-## Libraries
-* https://github.com/vicpinm/UltimateRecyclerView
-* https://github.com/gurleensethi/LiteUtilities
-* https://github.com/MEiDIK/SlimAdapter
-* https://github.com/MarkoMilos/Paginate
