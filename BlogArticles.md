@@ -9,6 +9,9 @@ This contains list of links. Choose wisely.
    https://gist.github.com/gabrielemariotti/ad6672902464ee2392d0  
    https://github.com/hypertrack/hypertrack-live-android   
    
+## About Page
+* https://github.com/medyo/android-about-page
+* https://github.com/husaynhakeem/about-page-android
   
 ## Simple Android Topics
    [Dagger 2 with Retrofit and OkHttp and Gson](https://adityaladwa.wordpress.com/2016/05/09/dagger-2-with-retrofit-and-okhttp-and-gson/)   
