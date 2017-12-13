@@ -29,6 +29,8 @@ https://github.com/sparrow007/CircularProgressbar
 
 ## Some Useful Libraries
 
+   [FinestWebView](https://github.com/TheFinestArtist/FinestWebView-Android)
+
    [AppIntro](https://github.com/apl-devs/AppIntro)
    
    [FloatingKeyboard](https://github.com/GeorgeArgyrakis/FloatingKeyboard)
