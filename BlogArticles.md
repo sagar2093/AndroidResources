@@ -1,6 +1,7 @@
 # Resources for android components
 This contains list of links. Choose wisely.   
-   https://blog.mindorks.com/publishing-multiple-apks-on-google-play-b06bb9078aaehttps://medium.com/@albur.ivan/reducing-android-apk-size-6e7d626e83a7   
+   https://blog.mindorks.com/publishing-multiple-apks-on-google-play-b06bb9078aae   
+   https://medium.com/@albur.ivan/reducing-android-apk-size-6e7d626e83a7   
    https://github.com/futurice/android-best-practices  
    https://infinum.co/the-capsized-eight/make-sure-users-have-the-latest-app-version-installed  
    https://github.com/ksughosh/AnimatedTextView  
