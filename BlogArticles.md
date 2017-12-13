@@ -1,5 +1,6 @@
 # Resources for android components
 This contains list of links. Choose wisely.   
+   https://android.jlelse.eu/build-a-bbc-world-news-aggregator-app-in-35-minutes-building-android-app-series-466cc7855abb   
    https://blog.mindorks.com/publishing-multiple-apks-on-google-play-b06bb9078aae   
    https://medium.com/@albur.ivan/reducing-android-apk-size-6e7d626e83a7   
    https://github.com/futurice/android-best-practices  
