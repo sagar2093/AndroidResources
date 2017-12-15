@@ -15,7 +15,8 @@ This contains list of links. Choose wisely.
 * https://github.com/medyo/android-about-page
 * https://github.com/husaynhakeem/about-page-android
   
-## Simple Android Topics
+## Simple Android Topics   
+   https://github.com/hendraanggrian/recyclerview-expandable   
    [Dagger 2 with Retrofit and OkHttp and Gson](https://adityaladwa.wordpress.com/2016/05/09/dagger-2-with-retrofit-and-okhttp-and-gson/)   
    [Android — Adding badge or count to the navigation drawer](https://android.jlelse.eu/android-adding-badge-or-count-to-the-navigation-drawer-84c93af1f4d9)   
    [Learn to implement your first Android UI Library — Part 1](https://medium.com/@harivigneshjayapalan/learning-to-implement-your-first-android-ui-library-part-1-be7a31e5ccc3)   
