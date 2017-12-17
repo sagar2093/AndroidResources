@@ -16,6 +16,7 @@ This contains list of links. Choose wisely.
 * https://github.com/husaynhakeem/about-page-android
   
 ## Simple Android Topics   
+   https://github.com/DevAhamed/MultiViewAdapter   
    https://www.simplifiedcoding.net/expandable-recyclerview-android/   
    https://github.com/thoughtbot/expandable-recycler-view   
    https://github.com/hendraanggrian/recyclerview-expandable   
