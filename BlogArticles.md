@@ -16,6 +16,7 @@ This contains list of links. Choose wisely.
 * https://github.com/husaynhakeem/about-page-android
   
 ## Simple Android Topics   
+   https://www.simplifiedcoding.net/expandable-recyclerview-android/   
    https://github.com/thoughtbot/expandable-recycler-view   
    https://github.com/hendraanggrian/recyclerview-expandable   
    [Dagger 2 with Retrofit and OkHttp and Gson](https://adityaladwa.wordpress.com/2016/05/09/dagger-2-with-retrofit-and-okhttp-and-gson/)   
