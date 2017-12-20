@@ -25,6 +25,8 @@ This contains list of links. Choose wisely.
    [Android — Adding badge or count to the navigation drawer](https://android.jlelse.eu/android-adding-badge-or-count-to-the-navigation-drawer-84c93af1f4d9)   
    [Learn to implement your first Android UI Library — Part 1](https://medium.com/@harivigneshjayapalan/learning-to-implement-your-first-android-ui-library-part-1-be7a31e5ccc3)   
    [Custom Views and ViewGroups (Part 1)](https://caster.io/episodes/custom-views-and-viewgroups-part-1/)   
+   https://android.jlelse.eu/building-custom-component-with-kotlin-fc082678b080      
+   https://ask.ericlin.info/post/004-tricks-that-kotlin-can-help-to-write-andorid-custom-views/
    [Boost your Android productivity — Use Compound ViewGroups](https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc)  
    [The secret sauce behind uninstall tracking](https://clevertap.com/blog/track-app-uninstalls-effectively/)  
    [ANDROID: Browsing Realm Database On Windows](https://android.jlelse.eu/android-browsing-realm-database-on-windows-3d2b4fc3de92)  
