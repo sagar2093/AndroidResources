@@ -1,4 +1,5 @@
 # Kotlin Resources
+* https://www.toptal.com/android/kotlin-boost-android-development
 * https://github.com/MindorksOpenSource/from-java-to-kotlin   
 * https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8   
 * https://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html   
