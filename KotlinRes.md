@@ -1,4 +1,5 @@
 # Kotlin Resources
+* http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
 * https://www.toptal.com/android/kotlin-boost-android-development
 * https://github.com/MindorksOpenSource/from-java-to-kotlin   
 * https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8   
