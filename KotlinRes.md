@@ -1,4 +1,5 @@
 # Kotlin Resources
+* https://medium.com/google-developers/lessons-learned-while-converting-to-kotlin-with-android-studio-f0a3cb41669
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
 * https://www.toptal.com/android/kotlin-boost-android-development
 * https://github.com/MindorksOpenSource/from-java-to-kotlin   
