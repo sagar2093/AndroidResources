@@ -8,6 +8,7 @@
 * https://github.com/MarkoMilos/Paginate   
 
 ## Some Useful Links
+* https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688
 * https://infinum.co/the-capsized-eight/one-recyclerview-to-rule-them-all
 * https://news.realm.io/news/360andev-yigit-boyar-pro-recyclerview-android-ui-java/
 * http://valokafor.com/remember-drag-and-drop-position-with-recyclerview/
