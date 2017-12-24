@@ -1,5 +1,6 @@
 # Kotlin Resources
-*https://antonioleiva.com/kotlin-awesome-tricks-for-android/
+* https://antonioleiva.com/listeners-several-functions-kotlin/
+* https://antonioleiva.com/kotlin-awesome-tricks-for-android/
 * https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb
 * https://medium.com/google-developers/lessons-learned-while-converting-to-kotlin-with-android-studio-f0a3cb41669
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
