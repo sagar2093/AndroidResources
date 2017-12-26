@@ -235,11 +235,3 @@ https://futurestud.io/tutorials/retrofit-2-how-to-upload-multiple-files-to-serve
 
 ### Strings.xml
 https://medium.com/google-developer-experts/android-strings-xml-things-to-remember-c155025bb8bb
-
-
-### Realm Migration
-https://github.com/realm/realm-java/tree/master/examples/migrationExample
-https://medium.com/@anikadamg/testing-realm-migrations-952910a8eb7b
-https://stackoverflow.com/questions/35836761/right-way-of-doing-realm-migration-android
-https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8
-https://medium.com/@budioktaviyans/android-realm-migration-schema-4fcef6c61e82
