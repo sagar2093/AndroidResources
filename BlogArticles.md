@@ -16,6 +16,7 @@ This contains list of links. Choose wisely.
 * https://github.com/husaynhakeem/about-page-android
   
 ## Simple Android Topics  
+   https://android.jlelse.eu/beginners-guide-to-better-android-development-b6d17d09d8da   
    https://gist.github.com/anggadarkprince/a7c536da091f4b26bb4abf2f92926594   
    https://android.jlelse.eu/custom-dialog-with-circular-reveal-animation-ef7dc77ba1e   
    https://android.jlelse.eu/customizing-switch-using-xml-ca0d37204a86   
