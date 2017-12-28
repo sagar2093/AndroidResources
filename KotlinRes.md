@@ -12,6 +12,7 @@
 * https://blog.stylingandroid.com/category/kotlin/
 
 ## General Knowledge
+* https://savvyapps.com/blog/kotlin-tips-android-development
 * https://antonioleiva.com/listeners-several-functions-kotlin/
 * https://antonioleiva.com/kotlin-awesome-tricks-for-android/
 * https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb
