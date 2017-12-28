@@ -5,6 +5,8 @@
 #Extensions
 
 # Libraries
+### Permission
+* https://github.com/abhinav272/EasyGrant
 ### Realm
 * https://antonioleiva.com/kotlin-realm-extensions/
 
