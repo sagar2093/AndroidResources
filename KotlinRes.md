@@ -20,5 +20,7 @@
 
 ## Archictecture Components
 * http://mobologicplus.com/android-room-persistence-library-sqlite-mapper-kotlin/
-
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
+
+## RecyclerView
+* [Kotlin Recipes for Android (II): RecyclerView and DiffUtil](https://antonioleiva.com/recyclerview-diffutil-kotlin/)
