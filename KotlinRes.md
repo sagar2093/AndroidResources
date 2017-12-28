@@ -17,3 +17,8 @@
 * https://kotlin.link/
 * https://www.bignerdranch.com/blog/migrating-an-android-app-from-java-to-kotlin/
 * https://academy.realm.io/posts/learning-path-kotlin-in-depth/
+
+## Archictecture Components
+* http://mobologicplus.com/android-room-persistence-library-sqlite-mapper-kotlin/
+
+* http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
