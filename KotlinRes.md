@@ -8,6 +8,9 @@
 ### Realm
 * https://antonioleiva.com/kotlin-realm-extensions/
 
+# Blogs
+* https://blog.stylingandroid.com/category/kotlin/
+
 ## General Knowledge
 * https://antonioleiva.com/listeners-several-functions-kotlin/
 * https://antonioleiva.com/kotlin-awesome-tricks-for-android/
