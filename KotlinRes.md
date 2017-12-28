@@ -12,6 +12,7 @@
 * https://blog.stylingandroid.com/category/kotlin/
 
 ## General Knowledge
+* https://proandroiddev.com/android-kotlin-and-api-27-2e6f3f893c2
 * https://savvyapps.com/blog/kotlin-tips-android-development
 * https://antonioleiva.com/listeners-several-functions-kotlin/
 * https://antonioleiva.com/kotlin-awesome-tricks-for-android/
