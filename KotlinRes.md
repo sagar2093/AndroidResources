@@ -7,6 +7,8 @@
 # Libraries
 ### Permission
 * https://github.com/abhinav272/EasyGrant
+* https://github.com/MidsizeMango/Permissions-Handler
+
 ### Realm
 * https://antonioleiva.com/kotlin-realm-extensions/
 
