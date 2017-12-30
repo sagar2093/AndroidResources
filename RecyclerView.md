@@ -22,6 +22,7 @@
 * https://github.com/thorbenprimke/realm-recyclerview
 
 ## Additional Properties
+* Equal Spacing https://gist.github.com/alexfu/f7b8278009f3119f523a
 * Item Divider https://www.bignerdranch.com/blog/a-view-divided-adding-dividers-to-your-recyclerview-with-itemdecoration/
 * Item Divider https://stackoverflow.com/questions/31242812/how-can-a-divider-line-be-added-in-an-android-recyclerview
 
