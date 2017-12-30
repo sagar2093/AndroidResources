@@ -6,6 +6,7 @@
 * https://github.com/gurleensethi/LiteUtilities
 * https://github.com/MEiDIK/SlimAdapter
 * https://github.com/MarkoMilos/Paginate   
+* https://github.com/wasabeef/recyclerview-animators
 
 ## Some Useful Links
 * https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688
