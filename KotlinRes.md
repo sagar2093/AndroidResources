@@ -44,6 +44,7 @@
 
 ### RecyclerView
 * [Kotlin Recipes for Android (II): RecyclerView and DiffUtil](https://antonioleiva.com/recyclerview-diffutil-kotlin/)
+* [Enter animation using RecyclerView and LayoutAnimation Part 1: Lists](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213)
 
 ### Retrofit2
 * https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
