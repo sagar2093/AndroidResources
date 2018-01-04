@@ -90,4 +90,7 @@
 # UI
 ### ConstraintLayout
 * http://www.tellmehow.co/building-ui-constraintlayout-in-android/
+* http://www.tellmehow.co/add-android-badges-tab-layout/
+* http://www.tellmehow.co/chrome-like-tab-switcher-android-library/
+* http://www.tellmehow.co/infinite-cycle-viewpager/
 
