@@ -21,6 +21,7 @@
 * https://blog.stylingandroid.com/category/kotlin/
 
 ## General Knowledge
+* http://www.tellmehow.co/app-monetization-major-strategies-and-tips-to-perform/
 * http://www.tellmehow.co/amazing-side-menu-animation-android-library/
 * http://www.tellmehow.co/advanced-kotlin-tips-pro-developers/
 * https://proandroiddev.com/android-kotlin-and-api-27-2e6f3f893c2
