@@ -46,6 +46,7 @@
 * http://thetechnocafe.com/
 
 ## General Knowledge
+* http://www.tellmehow.co/make-android-rss-reader-app/
 * http://www.tellmehow.co/top-30-android-tools-every-developer-know/
 * http://www.tellmehow.co/app-monetization-major-strategies-and-tips-to-perform/
 * http://www.tellmehow.co/amazing-side-menu-animation-android-library/
