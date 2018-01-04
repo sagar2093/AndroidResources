@@ -78,6 +78,7 @@
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
 
 ### RecyclerView
+* http://www.tellmehow.co/vega-scroll-layout-android-slider/
 * http://www.tellmehow.co/cardslider-for-android/
 * http://www.tellmehow.co/add-android-timeline-view/
 * http://www.tellmehow.co/fan-layout-manager-android/
