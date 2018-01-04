@@ -19,6 +19,7 @@
 * http://www.tellmehow.co/add-tableview-for-android/
 
 # Blogs
+* http://www.tellmehow.co/category/android/
 * https://blog.stylingandroid.com/category/kotlin/
 
 ## General Knowledge
