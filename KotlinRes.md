@@ -3,6 +3,7 @@
 * https://kotlin.link/
 
 # Extensions
+* http://www.tellmehow.co/kotlin-extension-functions-android-extensions/
 
 # Libraries
 * https://android523.wordpress.com/2017/12/11/android-220-libraries-with-github/
