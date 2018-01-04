@@ -2,8 +2,9 @@
 * https://www.kotlinresources.com/
 * https://kotlin.link/
 
-# Extensions
+# Extensions/Code Snippets
 * http://www.tellmehow.co/kotlin-extension-functions-android-extensions/
+* http://www.tellmehow.co/daily-used-kotlin-code-snippet/
 
 # Libraries
 * https://android523.wordpress.com/2017/12/11/android-220-libraries-with-github/
@@ -76,6 +77,7 @@
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
 
 ### RecyclerView
+* http://www.tellmehow.co/add-android-timeline-view/
 * http://www.tellmehow.co/fan-layout-manager-android/
 * [Kotlin Recipes for Android (II): RecyclerView and DiffUtil](https://antonioleiva.com/recyclerview-diffutil-kotlin/)
 * [Enter animation using RecyclerView and LayoutAnimation Part 1: Lists](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213)
