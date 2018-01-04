@@ -78,6 +78,7 @@
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
 
 ### RecyclerView
+* http://www.tellmehow.co/cardslider-for-android/
 * http://www.tellmehow.co/add-android-timeline-view/
 * http://www.tellmehow.co/fan-layout-manager-android/
 * [Kotlin Recipes for Android (II): RecyclerView and DiffUtil](https://antonioleiva.com/recyclerview-diffutil-kotlin/)
