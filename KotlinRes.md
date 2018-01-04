@@ -2,7 +2,7 @@
 * https://www.kotlinresources.com/
 * https://kotlin.link/
 
-#Extensions
+# Extensions
 
 # Libraries
 ### Permission
@@ -19,6 +19,7 @@
 * https://blog.stylingandroid.com/category/kotlin/
 
 ## General Knowledge
+* http://www.tellmehow.co/amazing-side-menu-animation-android-library/
 * http://www.tellmehow.co/advanced-kotlin-tips-pro-developers/
 * https://proandroiddev.com/android-kotlin-and-api-27-2e6f3f893c2
 * https://savvyapps.com/blog/kotlin-tips-android-development
