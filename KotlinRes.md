@@ -12,10 +12,14 @@
 ### Realm
 * https://antonioleiva.com/kotlin-realm-extensions/
 
+### TableView
+* http://www.tellmehow.co/add-tableview-for-android/
+
 # Blogs
 * https://blog.stylingandroid.com/category/kotlin/
 
 ## General Knowledge
+* http://www.tellmehow.co/advanced-kotlin-tips-pro-developers/
 * https://proandroiddev.com/android-kotlin-and-api-27-2e6f3f893c2
 * https://savvyapps.com/blog/kotlin-tips-android-development
 * https://antonioleiva.com/listeners-several-functions-kotlin/
