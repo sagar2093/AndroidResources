@@ -21,6 +21,28 @@
 # Blogs
 * http://www.tellmehow.co/category/android/
 * https://blog.stylingandroid.com/category/kotlin/
+* https://ask.ericlin.info/
+* https://blog.mindorks.com/tagged/kotlin
+* https://mindorks.com/blogs
+* https://segunfamisa.com/tags/
+* https://rongi.github.io/kotlin-blog/ 
+* https://www.raywenderlich.com/category/android
+* http://gunhansancar.com/category/android/
+* https://riggaroo.co.za/
+* http://myhexaville.com/
+* https://chris.banes.me/
+* http://www.gadgetsaint.com/
+* https://news.realm.io/news/ 
+* https://academy.realm.io/tags/android
+* https://infinum.co/the-capsized-eight/tags/android-development
+* https://fernandocejas.com/
+* http://www.hidroh.com/
+* http://www.truiton.com/category/android/
+* https://www.androidhive.info/
+* https://www.bignerdranch.com/blog/categories/android/
+* https://androidessence.com
+* https://clevertap.com/blog/tag/android/
+* http://thetechnocafe.com/
 
 ## General Knowledge
 * http://www.tellmehow.co/top-30-android-tools-every-developer-know/
