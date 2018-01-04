@@ -59,3 +59,7 @@
 ### Retrofit2
 * https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
 
+# UI
+### ConstraintLayout
+* http://www.tellmehow.co/building-ui-constraintlayout-in-android/
+
