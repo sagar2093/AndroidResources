@@ -79,6 +79,12 @@
 ### SharedPreferences
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
 
+### Download Manager
+* http://www.tellmehow.co/source-android-download-manager/
+
+### Retrofit2
+* https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
+
 ### RecyclerView
 * http://www.tellmehow.co/recyclerview-snapping-example/
 * http://www.tellmehow.co/vega-scroll-layout-android-slider/
@@ -88,15 +94,15 @@
 * [Kotlin Recipes for Android (II): RecyclerView and DiffUtil](https://antonioleiva.com/recyclerview-diffutil-kotlin/)
 * [Enter animation using RecyclerView and LayoutAnimation Part 1: Lists](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213)
 
-### Retrofit2
-* https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
-
-# UI
 ### ConstraintLayout
-* http://www.tellmehow.co/android-spacetablayout-animation/
 * http://www.tellmehow.co/building-ui-constraintlayout-in-android/
-* http://www.tellmehow.co/add-android-badges-tab-layout/
-* http://www.tellmehow.co/chrome-like-tab-switcher-android-library/
+
+### ViewPager
 * http://www.tellmehow.co/infinite-cycle-viewpager/
 * http://www.tellmehow.co/hollyviewpager-android-navigation-animation/
+
+# UI Uncatogorized
+* http://www.tellmehow.co/chrome-like-tab-switcher-android-library/
+* http://www.tellmehow.co/add-android-badges-tab-layout/
+* http://www.tellmehow.co/android-spacetablayout-animation/
 
