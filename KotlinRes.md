@@ -50,7 +50,6 @@
 * http://www.tellmehow.co/use-gson-with-kotlin/
 * http://www.tellmehow.co/make-android-rss-reader-app/
 * http://www.tellmehow.co/top-30-android-tools-every-developer-know/
-* http://www.tellmehow.co/app-monetization-major-strategies-and-tips-to-perform/
 * http://www.tellmehow.co/amazing-side-menu-animation-android-library/
 * http://www.tellmehow.co/advanced-kotlin-tips-pro-developers/
 * https://proandroiddev.com/android-kotlin-and-api-27-2e6f3f893c2
@@ -65,6 +64,10 @@
 * https://antonioleiva.com/kotlin-awesome-tricks-for-android/
 * https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
 * https://academy.realm.io/posts/learning-path-kotlin-in-depth/
+
+## App Monetization
+* http://developine.com/how-to-integrate-admob-rewarded-video-ads-in-android-tutorial/
+* http://www.tellmehow.co/app-monetization-major-strategies-and-tips-to-perform/
 
 # Java to Kotlin Conversion
 * https://medium.com/google-developers/lessons-learned-while-converting-to-kotlin-with-android-studio-f0a3cb41669
