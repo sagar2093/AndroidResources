@@ -104,6 +104,9 @@
 * http://www.tellmehow.co/infinite-cycle-viewpager/
 * http://www.tellmehow.co/hollyviewpager-android-navigation-animation/
 
+### Animations
+* https://medium.com/@droid_singh/splash-screen-using-physics-animation-4bd98eedfe04
+
 # UI Uncatogorized
 * http://www.tellmehow.co/chrome-like-tab-switcher-android-library/
 * http://www.tellmehow.co/add-android-badges-tab-layout/
