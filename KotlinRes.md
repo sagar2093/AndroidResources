@@ -1,6 +1,7 @@
 # Kotlin Resources
 * https://www.kotlinresources.com/
 * https://kotlin.link/
+* https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316
 
 # Extensions/Code Snippets
 * http://www.tellmehow.co/kotlin-extension-functions-android-extensions/
