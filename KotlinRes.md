@@ -4,6 +4,7 @@
 * https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316
 
 # Extensions/Code Snippets
+* https://github.com/heimashi/kotlin_tips
 * http://www.tellmehow.co/kotlin-extension-functions-android-extensions/
 * http://www.tellmehow.co/daily-used-kotlin-code-snippet/
 
