@@ -83,6 +83,7 @@
 
 ### SharedPreferences
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
+* https://github.com/chibatching/Kotpref
 
 ### Download Manager
 * http://www.tellmehow.co/source-android-download-manager/
