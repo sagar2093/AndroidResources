@@ -21,6 +21,11 @@
 ### TableView
 * http://www.tellmehow.co/add-tableview-for-android/
 
+# Source Codes
+### RSS Reader
+* https://github.com/msesma/Karchitec
+* https://github.com/pattM/RSSReader-Kotlin
+
 # Blogs
 * http://www.tellmehow.co/category/android/
 * https://blog.stylingandroid.com/category/kotlin/
@@ -77,6 +82,9 @@
 * https://www.bignerdranch.com/blog/migrating-an-android-app-from-java-to-kotlin/
 
 # Basics
+### Navigations
+* https://github.com/Rajatsonii/Universal-bottom-bar
+
 ### Archictecture Components
 * http://mobologicplus.com/android-room-persistence-library-sqlite-mapper-kotlin/
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
