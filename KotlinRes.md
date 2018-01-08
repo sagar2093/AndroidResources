@@ -3,6 +3,9 @@
 * https://kotlin.link/
 * https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316
 
+# GuideLines
+* https://android.github.io/kotlin-guides/style.html
+
 # Extensions/Code Snippets
 * https://github.com/heimashi/kotlin_tips
 * http://www.tellmehow.co/kotlin-extension-functions-android-extensions/
