@@ -3,6 +3,9 @@
 * https://kotlin.link/
 * https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316
 
+# Collections
+* https://medium.com/mindorks/kotlin-weekly-update-11-439320aaa65d
+
 # GuideLines
 * https://android.github.io/kotlin-guides/style.html
 
