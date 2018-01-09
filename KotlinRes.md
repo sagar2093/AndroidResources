@@ -2,6 +2,7 @@
 * https://www.kotlinresources.com/
 * https://kotlin.link/
 * https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316
+* [Kotlin from scratch- Series](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 
 # Collections
 * https://medium.com/mindorks/kotlin-weekly-update-11-439320aaa65d
