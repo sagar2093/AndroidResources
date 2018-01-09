@@ -108,6 +108,7 @@
 * https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
 
 ### RecyclerView
+* https://hackernoon.com/recyclerview-plus-assign-kotlin-power-6f93ce980154
 * http://www.tellmehow.co/recyclerview-snapping-example/
 * http://www.tellmehow.co/vega-scroll-layout-android-slider/
 * http://www.tellmehow.co/cardslider-for-android/
