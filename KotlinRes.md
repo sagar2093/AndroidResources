@@ -30,6 +30,8 @@
 * http://www.tellmehow.co/add-tableview-for-android/
 
 # Source Codes
+* http://developine.com/develop-android-image-gallery-app-kotlin-with-source-code/
+
 ### RSS Reader
 * https://github.com/msesma/Karchitec
 * https://github.com/pattM/RSSReader-Kotlin
