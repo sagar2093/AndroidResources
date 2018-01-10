@@ -24,6 +24,7 @@
 
 ### Realm
 * https://antonioleiva.com/kotlin-realm-extensions/
+* https://github.com/vicpinm/Kotlin-Realm-Extensions
 
 ### TableView
 * http://www.tellmehow.co/add-tableview-for-android/
