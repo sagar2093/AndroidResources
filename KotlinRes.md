@@ -18,6 +18,9 @@
 # Libraries
 * https://android523.wordpress.com/2017/12/11/android-220-libraries-with-github/
 
+### CustomView
+* https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
+
 ### Permission
 * https://github.com/abhinav272/EasyGrant
 * https://github.com/MidsizeMango/Permissions-Handler
