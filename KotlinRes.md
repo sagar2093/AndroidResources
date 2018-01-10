@@ -35,6 +35,7 @@
 
 # Source Codes
 * http://developine.com/develop-android-image-gallery-app-kotlin-with-source-code/
+* https://github.com/ritesh-singh/WeatherApplication
 
 ### RSS Reader
 * https://github.com/msesma/Karchitec
