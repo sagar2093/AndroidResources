@@ -102,6 +102,7 @@
 * https://github.com/Rajatsonii/Universal-bottom-bar
 
 ### Archictecture Components
+* https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
 * http://mobologicplus.com/android-room-persistence-library-sqlite-mapper-kotlin/
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
 
