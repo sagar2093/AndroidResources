@@ -131,6 +131,7 @@
 ### ViewPager
 * http://www.tellmehow.co/infinite-cycle-viewpager/
 * http://www.tellmehow.co/hollyviewpager-android-navigation-animation/
+* https://github.com/hyogeunpark/gradationpager
 
 ### Animations
 * https://medium.com/@droid_singh/splash-screen-using-physics-animation-4bd98eedfe04
