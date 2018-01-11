@@ -2,7 +2,10 @@
 * https://www.kotlinresources.com/
 * https://kotlin.link/
 * https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316
-* [Kotlin from scratch- Series](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
+* Kotlin from scratch- Series   
+  https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209
+* Keddit — Intro: Learn Kotlin while developing an Android App   
+  https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
 
 # Collections
 * https://medium.com/mindorks/kotlin-weekly-update-11-439320aaa65d
