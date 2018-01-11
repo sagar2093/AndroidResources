@@ -74,6 +74,7 @@
 * http://thetechnocafe.com/
 
 ## General Knowledge
+* https://medium.com/@jerzy.chalupski/kotlin-get-excited-about-right-things-19d500e370f4
 * http://www.tellmehow.co/kotlin-problems-avoid/
 * http://www.tellmehow.co/use-gson-with-kotlin/
 * http://www.tellmehow.co/make-android-rss-reader-app/
