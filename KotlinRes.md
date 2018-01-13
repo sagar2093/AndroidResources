@@ -147,6 +147,7 @@
 * https://medium.com/@droid_singh/splash-screen-using-physics-animation-4bd98eedfe04
 
 # UI Uncatogorized
+* https://medium.com/@tonia.tkachuk/appbarlayout-scroll-behavior-with-layout-scrollflags-2eec41b4366b
 * http://www.tellmehow.co/chrome-like-tab-switcher-android-library/
 * http://www.tellmehow.co/add-android-badges-tab-layout/
 * http://www.tellmehow.co/android-spacetablayout-animation/
