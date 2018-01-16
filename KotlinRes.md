@@ -76,6 +76,7 @@
 * http://thetechnocafe.com/
 
 ## General Knowledge
+* https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
 * https://proandroiddev.com/kotlin-data-classes-enough-boilerplate-c4647e475485
 * https://medium.com/@jerzy.chalupski/kotlin-get-excited-about-right-things-19d500e370f4
 * http://www.tellmehow.co/kotlin-problems-avoid/
