@@ -20,6 +20,7 @@
 * http://www.tellmehow.co/daily-used-kotlin-code-snippet/
 
 # Libraries
+* https://medium.com/@mmbialas/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4
 * https://android523.wordpress.com/2017/12/11/android-220-libraries-with-github/
 
 ### CustomView
@@ -43,6 +44,7 @@
 * https://github.com/ritesh-singh/WeatherApplication
 
 ### RSS Reader
+* https://github.com/smart-fun/XmlToJson
 * https://github.com/msesma/Karchitec
 * https://github.com/pattM/RSSReader-Kotlin
 
