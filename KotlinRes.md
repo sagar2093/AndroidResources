@@ -44,6 +44,7 @@
 * https://github.com/ritesh-singh/WeatherApplication
 
 ### RSS Reader
+* https://inducesmile.com/android/android-parsing-local-xml-file-and-parsing-remote-xml-file-examples-in-android/
 * https://github.com/smart-fun/XmlToJson
 * https://github.com/msesma/Karchitec
 * https://github.com/pattM/RSSReader-Kotlin
