@@ -153,6 +153,13 @@
 ### Animations
 * https://medium.com/@droid_singh/splash-screen-using-physics-animation-4bd98eedfe04
 
+### Navigation Drawer
+* Github List   
+  https://github.com/topics/navigation-drawer?l=java
+* https://github.com/mikepenz/MaterialDrawer
+* https://github.com/yarolegovich/SlidingRootNav
+* https://github.com/PSD-Company/duo-navigation-drawer
+
 # UI Uncatogorized
 * https://medium.com/@tonia.tkachuk/appbarlayout-scroll-behavior-with-layout-scrollflags-2eec41b4366b
 * http://www.tellmehow.co/chrome-like-tab-switcher-android-library/
