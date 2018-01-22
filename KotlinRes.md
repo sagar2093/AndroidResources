@@ -28,6 +28,9 @@
 * https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
 * https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
 
+### Article Reader
+* https://github.com/klinker41/article-android
+
 ### Permission
 * https://github.com/abhinav272/EasyGrant
 * https://github.com/MidsizeMango/Permissions-Handler
