@@ -28,6 +28,9 @@
 * https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
 * https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
 
+### ExoPlayer
+* https://android.jlelse.eu/android-exoplayer-starters-guide-6350433f256c
+
 ### Article Reader
 * https://github.com/klinker41/article-android
 
