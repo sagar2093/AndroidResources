@@ -25,7 +25,6 @@
 
 ### CustomView
 * https://github.com/herou/Youtube-Pagination-ProgressBar
-* https://github.com/rbro112/Android-Indefinite-Pager-Indicator
 * https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
 * https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
 
