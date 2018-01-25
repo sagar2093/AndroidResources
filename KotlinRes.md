@@ -170,6 +170,7 @@
 * https://github.com/mikepenz/MaterialDrawer
 * https://github.com/yarolegovich/SlidingRootNav
 * https://github.com/PSD-Company/duo-navigation-drawer
+* https://github.com/Rajatsonii/Universal-bottom-bar (java)
 
 # UI Uncatogorized
 * https://medium.com/@tonia.tkachuk/appbarlayout-scroll-behavior-with-layout-scrollflags-2eec41b4366b
