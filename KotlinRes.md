@@ -136,6 +136,9 @@
 ### Retrofit2
 * https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
 
+### Dagger2
+* http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-1/
+
 ### RecyclerView
 * https://android.jlelse.eu/keddit-part-7-infinite-scroll-higher-order-functions-lambdas-3a11fbd5090e
 * https://github.com/hendraanggrian/recyclerview-paginated
