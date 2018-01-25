@@ -24,6 +24,7 @@
 * https://android523.wordpress.com/2017/12/11/android-220-libraries-with-github/
 
 ### CustomView
+* https://github.com/herou/Youtube-Pagination-ProgressBar
 * https://github.com/rbro112/Android-Indefinite-Pager-Indicator
 * https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
 * https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
