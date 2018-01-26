@@ -120,6 +120,7 @@
 * https://github.com/Rajatsonii/Universal-bottom-bar
 
 ### Archictecture Components
+* https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
 * https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
 * https://proandroiddev.com/add-offline-support-using-room-ecee194c503e
 * https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
