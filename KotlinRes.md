@@ -158,6 +158,7 @@
 * http://www.tellmehow.co/vega-scroll-layout-android-slider/
 * http://www.tellmehow.co/cardslider-for-android/
 * http://www.tellmehow.co/add-android-timeline-view/
+* https://github.com/sangcomz/StickyTimeLine
 * http://www.tellmehow.co/fan-layout-manager-android/
 * [Kotlin Recipes for Android (II): RecyclerView and DiffUtil](https://antonioleiva.com/recyclerview-diffutil-kotlin/)
 * [Enter animation using RecyclerView and LayoutAnimation Part 1: Lists](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213)
