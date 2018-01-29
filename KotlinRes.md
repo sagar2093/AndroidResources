@@ -141,6 +141,7 @@
 * http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-1/
 
 ### RecyclerView
+* https://github.com/Ramotion/folding-cell-android
 * https://android.jlelse.eu/keddit-part-7-infinite-scroll-higher-order-functions-lambdas-3a11fbd5090e
 * https://github.com/hendraanggrian/recyclerview-paginated
 * https://hackernoon.com/recyclerview-plus-assign-kotlin-power-6f93ce980154
