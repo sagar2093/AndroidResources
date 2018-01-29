@@ -23,38 +23,6 @@
 * https://medium.com/@mmbialas/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4
 * https://android523.wordpress.com/2017/12/11/android-220-libraries-with-github/
 
-### CustomView
-* https://github.com/herou/Youtube-Pagination-ProgressBar
-* https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
-* https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
-
-### ExoPlayer
-* https://android.jlelse.eu/android-exoplayer-starters-guide-6350433f256c
-
-### Article Reader
-* https://github.com/klinker41/article-android
-
-### Permission
-* https://github.com/abhinav272/EasyGrant
-* https://github.com/MidsizeMango/Permissions-Handler
-
-### Realm
-* https://antonioleiva.com/kotlin-realm-extensions/
-* https://github.com/vicpinm/Kotlin-Realm-Extensions
-
-### TableView
-* http://www.tellmehow.co/add-tableview-for-android/
-
-# Source Codes
-* http://developine.com/develop-android-image-gallery-app-kotlin-with-source-code/
-* https://github.com/ritesh-singh/WeatherApplication
-
-### RSS Reader
-* https://inducesmile.com/android/android-parsing-local-xml-file-and-parsing-remote-xml-file-examples-in-android/
-* https://github.com/smart-fun/XmlToJson
-* https://github.com/msesma/Karchitec
-* https://github.com/pattM/RSSReader-Kotlin
-
 # Blogs
 * https://androidessence.com
 * https://www.androidhive.info/
@@ -115,9 +83,22 @@
 * https://github.com/MindorksOpenSource/from-java-to-kotlin 
 * https://www.bignerdranch.com/blog/migrating-an-android-app-from-java-to-kotlin/
 
+# Source Codes
+* http://developine.com/develop-android-image-gallery-app-kotlin-with-source-code/
+* https://github.com/ritesh-singh/WeatherApplication
+
 # Basics
-### Navigations
+### Navigation Drawer
+* Github List   
+  https://github.com/topics/navigation-drawer?l=java
+* https://github.com/mikepenz/MaterialDrawer
+* https://github.com/yarolegovich/SlidingRootNav
+* https://github.com/PSD-Company/duo-navigation-drawer
+* https://github.com/Rajatsonii/Universal-bottom-bar (java)
 * https://github.com/Rajatsonii/Universal-bottom-bar
+
+### Bottom Sheet Navigation
+* http://thetechnocafe.com/make-bottom-sheet-android/
 
 ### Archictecture Components
 * https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
@@ -126,6 +107,34 @@
 * https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
 * http://mobologicplus.com/android-room-persistence-library-sqlite-mapper-kotlin/
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
+
+### CustomView
+* https://github.com/herou/Youtube-Pagination-ProgressBar
+* https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
+* https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
+
+### ExoPlayer
+* https://android.jlelse.eu/android-exoplayer-starters-guide-6350433f256c
+
+### Article Reader
+* https://github.com/klinker41/article-android
+
+### Permission
+* https://github.com/abhinav272/EasyGrant
+* https://github.com/MidsizeMango/Permissions-Handler
+
+### Realm
+* https://antonioleiva.com/kotlin-realm-extensions/
+* https://github.com/vicpinm/Kotlin-Realm-Extensions
+
+### TableView
+* http://www.tellmehow.co/add-tableview-for-android/
+
+### RSS Reader
+* https://inducesmile.com/android/android-parsing-local-xml-file-and-parsing-remote-xml-file-examples-in-android/
+* https://github.com/smart-fun/XmlToJson
+* https://github.com/msesma/Karchitec
+* https://github.com/pattM/RSSReader-Kotlin
 
 ### SharedPreferences
 * http://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin
@@ -165,14 +174,6 @@
 
 ### Animations
 * https://medium.com/@droid_singh/splash-screen-using-physics-animation-4bd98eedfe04
-
-### Navigation Drawer
-* Github List   
-  https://github.com/topics/navigation-drawer?l=java
-* https://github.com/mikepenz/MaterialDrawer
-* https://github.com/yarolegovich/SlidingRootNav
-* https://github.com/PSD-Company/duo-navigation-drawer
-* https://github.com/Rajatsonii/Universal-bottom-bar (java)
 
 # UI Uncatogorized
 * https://github.com/KeepSafe/TapTargetView
