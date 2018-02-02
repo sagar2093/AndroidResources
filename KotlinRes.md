@@ -101,11 +101,19 @@
 * http://thetechnocafe.com/make-bottom-sheet-android/
 
 ### Archictecture Components
+* https://developer.android.com/topic/libraries/architecture/guide.html
+* https://android.jlelse.eu/architecture-components-with-rx-simply-app-5b6a68a86451
 * https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
 * https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
+
+### Room Persistance Library
 * https://proandroiddev.com/add-offline-support-using-room-ecee194c503e
 * https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
+* https://proandroiddev.com/add-offline-support-using-room-ecee194c503e
 * http://mobologicplus.com/android-room-persistence-library-sqlite-mapper-kotlin/
+
+### Dagger2 (Dependency Injection)
+* http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-1/
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
 
 ### CustomView
@@ -145,9 +153,6 @@
 
 ### Retrofit2
 * https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
-
-### Dagger2
-* http://www.uwanttolearn.com/android/dagger-2-caution-please-try-home-part-1/
 
 ### RecyclerView
 * https://github.com/Ramotion/folding-cell-android
