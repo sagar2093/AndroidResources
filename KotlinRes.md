@@ -101,6 +101,8 @@
 * http://thetechnocafe.com/make-bottom-sheet-android/
 
 ### Archictecture Components
+* https://github.com/fabioCollini/ArchitectureComponentsDemo
+* https://erikcaffrey.github.io/ANDROID-kotlin-arch-components/
 * https://developer.android.com/topic/libraries/architecture/guide.html
 * https://android.jlelse.eu/architecture-components-with-rx-simply-app-5b6a68a86451
 * https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
