@@ -88,6 +88,9 @@
 * https://github.com/ritesh-singh/WeatherApplication
 
 # Basics
+### Proguard
+* https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9
+
 ### Navigation Drawer
 * Github List   
   https://github.com/topics/navigation-drawer?l=java
