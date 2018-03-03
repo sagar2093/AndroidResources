@@ -15,6 +15,7 @@
 * https://android.github.io/kotlin-guides/style.html
 
 # Extensions/Code Snippets
+* https://github.com/matteocrippa/karamba
 * https://github.com/heimashi/kotlin_tips
 * http://www.tellmehow.co/kotlin-extension-functions-android-extensions/
 * http://www.tellmehow.co/daily-used-kotlin-code-snippet/
