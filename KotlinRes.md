@@ -133,6 +133,7 @@
 * https://github.com/klinker41/article-android
 
 ### Permission
+* https://github.com/QuickPermissions/QuickPermissions
 * https://github.com/abhinav272/EasyGrant
 * https://github.com/MidsizeMango/Permissions-Handler
 
