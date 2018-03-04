@@ -96,6 +96,7 @@
 * Github List   
   https://github.com/topics/navigation-drawer?l=java
 * https://github.com/mikepenz/MaterialDrawer
+* http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android
 * https://github.com/yarolegovich/SlidingRootNav
 * https://github.com/PSD-Company/duo-navigation-drawer
 * https://github.com/Rajatsonii/Universal-bottom-bar (java)
