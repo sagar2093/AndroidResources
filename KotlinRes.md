@@ -52,6 +52,7 @@
 * http://thetechnocafe.com/
 
 ## General Knowledge
+* https://android.jlelse.eu/simple-weather-forecast-app-using-kotlin-retrofit-and-rxjava2-c4b1f4d9344e
 * https://www.studytutorial.in/android-text-selection-on-textview-and-edittext-tutorial
 * https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
 * https://proandroiddev.com/kotlin-data-classes-enough-boilerplate-c4647e475485
