@@ -164,6 +164,7 @@
 * https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin
 
 ### RecyclerView
+* https://github.com/luizgrp/SectionedRecyclerViewAdapter
 * https://github.com/Ramotion/folding-cell-android
 * https://android.jlelse.eu/keddit-part-7-infinite-scroll-higher-order-functions-lambdas-3a11fbd5090e
 * https://github.com/hendraanggrian/recyclerview-paginated
