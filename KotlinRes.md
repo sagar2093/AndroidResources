@@ -78,6 +78,7 @@
 * https://academy.realm.io/posts/learning-path-kotlin-in-depth/
 
 ## App Monetization
+* https://github.com/ldt116/FBNativeAdAdapter
 * http://developine.com/how-to-integrate-admob-rewarded-video-ads-in-android-tutorial/
 * http://www.tellmehow.co/app-monetization-major-strategies-and-tips-to-perform/
 
