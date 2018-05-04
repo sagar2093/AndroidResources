@@ -52,6 +52,7 @@
 * http://thetechnocafe.com/
 
 ## General Knowledge
+* https://github.com/AleSpero/ExpandableCardView
 * https://stackoverflow.com/questions/33551972/is-there-a-convenient-way-to-create-parcelable-data-classes-in-android-with-kotl
 * https://android.jlelse.eu/simple-weather-forecast-app-using-kotlin-retrofit-and-rxjava2-c4b1f4d9344e
 * https://www.studytutorial.in/android-text-selection-on-textview-and-edittext-tutorial
