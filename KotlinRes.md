@@ -7,6 +7,9 @@
   https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209
 * Keddit — Intro: Learn Kotlin while developing an Android App   
   https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+  
+# Dagger2, Kotlin, Architecture Components
+* https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture (https://proandroiddev.com/viewmodel-with-dagger2-architecture-components-2e06f06c9455)
 
 # Collections
 * https://medium.com/mindorks/kotlin-weekly-update-11-439320aaa65d
