@@ -138,6 +138,9 @@
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
 
 ### CustomView
+* https://developer.android.com/training/custom-views/create-view
+* https://medium.com/@robillo/android-custom-views-tutorial-part-1-115fa8d53be5
+* https://www.oodlestechnologies.com/blogs/How-To-Make-Add-Custom-Attributes-To-View-In-Android
 * https://github.com/herou/Youtube-Pagination-ProgressBar
 * https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e
 * https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
