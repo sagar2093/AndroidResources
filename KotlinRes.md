@@ -99,6 +99,11 @@
 ### Proguard
 * https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9
 
+### Swipe Left/Right in Recyclerview
+* https://android.jlelse.eu/android-recyclerview-swipeable-items-46a3c763498d
+* https://codeburst.io/android-swipe-menu-with-recyclerview-8f28a235ff28
+* https://medium.com/@kitek/recyclerview-swipe-to-delete-easier-than-you-thought-cff67ff5e5f6
+
 ### Searchable Spinner
 * https://github.com/miteshpithadiya/SearchableSpinner
 * https://github.com/michaelprimez/searchablespinner
