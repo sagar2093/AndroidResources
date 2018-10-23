@@ -202,6 +202,7 @@
 * https://github.com/vivchar/RendererRecyclerViewAdapter
 
 ### ConstraintLayout
+* https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/
 * http://www.tellmehow.co/building-ui-constraintlayout-in-android/
 
 ### ViewPager
