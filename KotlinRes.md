@@ -96,6 +96,9 @@
 * https://github.com/ritesh-singh/WeatherApplication
 
 # Basics
+### Coroutines
+* https://proandroiddev.com/kotlin-coroutines-handling-concurrency-like-a-pro-retrofit2-coroutines-31cd0611fd91
+
 ### Proguard
 * https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9
 
