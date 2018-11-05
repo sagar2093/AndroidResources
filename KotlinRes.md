@@ -97,6 +97,7 @@
 
 # Basics
 ### Coroutines
+* https://medium.com/exploring-android/android-networking-with-coroutines-and-retrofit-a2f20dd40a83
 * https://proandroiddev.com/kotlin-coroutines-handling-concurrency-like-a-pro-retrofit2-coroutines-31cd0611fd91
 
 ### Proguard
