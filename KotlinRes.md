@@ -142,6 +142,8 @@
 * https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d
 
 ### Room Persistance Library
+* https://developer.android.com/training/data-storage/room/referencing-data
+* https://medium.com/@amit.bhandari/storing-java-objects-other-than-primitive-types-in-room-database-11e45f4f6d22
 * https://medium.com/google-developers/7-pro-tips-for-room-fbadea4bfbd1
 * https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
 * https://proandroiddev.com/add-offline-support-using-room-ecee194c503e
