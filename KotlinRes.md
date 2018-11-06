@@ -99,6 +99,13 @@
 ### Coroutines
 * https://medium.com/exploring-android/android-networking-with-coroutines-and-retrofit-a2f20dd40a83
 * https://proandroiddev.com/kotlin-coroutines-handling-concurrency-like-a-pro-retrofit2-coroutines-31cd0611fd91
+* https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1
+
+### SyncAdapter
+* https://developer.android.com/training/sync-adapters/
+* https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter)
+* https://github.com/pockethub/PocketHub/blob/master/app/src/main/java/com/github/pockethub/android/sync/SyncAdapter.java
+* https://medium.com/practo-engineering/how-rxjava-reduced-our-sync-time-between-device-and-server-99e66364b881
 
 ### Proguard
 * https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9
