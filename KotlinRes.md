@@ -55,6 +55,7 @@
 * http://thetechnocafe.com/
 
 ## General Knowledge
+* https://stackoverflow.com/questions/24900803/how-to-make-screen-only-display-white-and-black-color-in-android-for-all-app
 * https://github.com/AleSpero/ExpandableCardView
 * https://stackoverflow.com/questions/33551972/is-there-a-convenient-way-to-create-parcelable-data-classes-in-android-with-kotl
 * https://android.jlelse.eu/simple-weather-forecast-app-using-kotlin-retrofit-and-rxjava2-c4b1f4d9344e
@@ -156,6 +157,7 @@
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
 
 ### CustomView
+* https://proandroiddev.com/how-i-drew-custom-shapes-in-bottom-bar-c4539d86afd7
 * https://developer.android.com/training/custom-views/create-view
 * https://medium.com/@robillo/android-custom-views-tutorial-part-1-115fa8d53be5
 * https://www.oodlestechnologies.com/blogs/How-To-Make-Add-Custom-Attributes-To-View-In-Android
