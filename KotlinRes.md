@@ -157,6 +157,7 @@
 * http://mobologicplus.com/mvp-design-pattern-with-dagger2-retrofit-anko-and-rxjava-in-kotlin-android/
 
 ### CustomView
+* https://android.jlelse.eu/android-dynamic-custom-view-is-easy-433258cbb80f
 * https://proandroiddev.com/how-i-drew-custom-shapes-in-bottom-bar-c4539d86afd7
 * https://developer.android.com/training/custom-views/create-view
 * https://medium.com/@robillo/android-custom-views-tutorial-part-1-115fa8d53be5
